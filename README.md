@@ -1,1 +1,1 @@
-# my-project(calculator)
+# my-project calculator
